@@ -1,0 +1,2 @@
+This is file input//output demo using python.
+Now This file is appended.
